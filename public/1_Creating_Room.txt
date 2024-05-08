@@ -1,0 +1,49 @@
+Room Name: Conference Hall
+Number of Seats: 50
+Amenities: Projector, Whiteboard
+Price per Hour: $100
+
+Room Name: Boardroom
+Number of Seats: 20
+Amenities: Video Conferencing, Presentation Screen
+Price per Hour: $80
+
+Room Name: Auditorium
+Number of Seats: 200
+Amenities: Stage, Sound System
+Price per Hour: $200
+
+Room Name: Seminar Room
+Number of Seats: 30
+Amenities: Flipchart, Microphones
+Price per Hour: $70
+
+Room Name: Training Room
+Number of Seats: 40
+Amenities: Training Kits, Breakout Areas
+Price per Hour: $90
+
+Room Name: Banquet Hall
+Number of Seats: 150
+Amenities: Catering Services, Dance Floor
+Price per Hour: $250
+
+Room Name: Executive Suite
+Number of Seats: 10
+Amenities: Private Restroom, Lounge Area
+Price per Hour: $120
+
+Room Name: Lounge
+Number of Seats: 15
+Amenities: Coffee Machine, Comfortable Seating
+Price per Hour: $50
+
+Room Name: Garden Pavilion
+Number of Seats: 100
+Amenities: Outdoor Seating, Scenic Views
+Price per Hour: $150
+
+Room Name: VIP Lounge
+Number of Seats: 8
+Amenities: Exclusive Bar, Butler Service
+Price per Hour: $200

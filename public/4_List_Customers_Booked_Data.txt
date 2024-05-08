@@ -1,0 +1,59 @@
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-05-10
+Start Time: 09:00
+End Time: 11:00
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-05-15
+Start Time: 14:00
+End Time: 16:00
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-05-20
+Start Time: 10:30
+End Time: 12:30
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-05-25
+Start Time: 11:30
+End Time: 13:30
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-05-30
+Start Time: 13:00
+End Time: 15:00
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-06-05
+Start Time: 15:30
+End Time: 17:30
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-06-10
+Start Time: 09:00
+End Time: 11:00
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-06-15
+Start Time: 14:00
+End Time: 16:00
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-06-20
+Start Time: 10:30
+End Time: 12:30
+
+Customer: John Doe
+Room Name: Conference Hall
+Date: 2024-06-25
+Start Time: 11:30
+End Time: 13:30
